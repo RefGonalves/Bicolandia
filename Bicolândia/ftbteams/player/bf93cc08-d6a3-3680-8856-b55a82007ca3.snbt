@@ -1,0 +1,15 @@
+{
+	id: "bf93cc08-d6a3-3680-8856-b55a82007ca3"
+	type: "player"
+	player_name: "KawaiiCyborg007"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "KawaiiCyborg007"
+		"ftbteams:description": ""
+		"ftbteams:color": "#00C3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

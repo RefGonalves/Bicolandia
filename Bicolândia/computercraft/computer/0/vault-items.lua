@@ -1,0 +1,25 @@
+term.clear()
+monitor = peripheral.wrap("monitor_0")
+data1 = peripheral.wrap("right")
+monitor.setTextColor(colors.cyan)
+monitor.setBackgroundColor(colors.black)
+monitor.setTextScale(1)
+monitor.clear()
+function loop()
+    monitor.clear()
+    local number = data1.getLine(1)
+    monitor.setTextColor(colors.blue)
+    monitor.setCursorPos(2,2)
+    monitor.write(string.format(" ITEMS: %d", number))
+    monitor.setCursorPos(2,4)
+    monitor.setTextColor(colors.red)
+    monitor.write(string.format(" STACKS: %d", number / 64))
+    sleep(.5)
+end
+term.setCursorPos(1,9)
+term.setTextColor(colors.yellow)
+print("MONITOR_0 is running. If needed, stop the running code or change tabs.")
+
+local x=1
+    while x==1 do loop()
+end

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5c65f97913ab40fea13a12ac8b930a7d"
+	name: "Mach_20#5c65f979"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

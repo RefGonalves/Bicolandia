@@ -1,0 +1,21 @@
+{
+	id: "5c65f979-13ab-40fe-a13a-12ac8b930a7d"
+	type: "party"
+	owner: "bf93cc08-d6a3-3680-8856-b55a82007ca3"
+	ranks: {
+		bf93cc08-d6a3-3680-8856-b55a82007ca3: "owner"
+		bdc41b6e-2497-31cc-b1e4-dc2f3b14e146: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "Mach 20"
+		"ftbteams:description": ""
+		"ftbteams:color": "#00C3FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716580234901L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"KawaiiCyborg007\"}]}" }
+		{ from: "bf93cc08-d6a3-3680-8856-b55a82007ca3", date: 1716580395260L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"zSilenceFox\"}]}" }
+	]
+	extra: { }
+}
