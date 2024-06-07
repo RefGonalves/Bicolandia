@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7d2d3628bdd63be3a645ac490026a092"
+	name: "CondeEjacula#7d2d3628"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

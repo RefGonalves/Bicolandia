@@ -1,0 +1,17 @@
+{
+	id: "e9c777e3-611b-3784-a8d9-cc33f63192ee"
+	type: "player"
+	player_name: "Bedark"
+	ranks: {
+		e9c777e3-611b-3784-a8d9-cc33f63192ee: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Bedark"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6FFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
